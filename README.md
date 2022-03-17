@@ -3,7 +3,6 @@
 - 👨‍🎓 Formando em Análise e Desenvolvimento de Sistemas.
 - 🧑‍🎓 Hoje estou estudando para ser um DEV full stack (Pós graduação em Metodologias Agéis e Design de UX, cursando. Bootcamp Desenvolvedor C#.NET e .NET Core – GFT Start#4. NET concluso.
 - 🧑‍💻 Transição de carreira para desenvolvedor. 
-- 
 
 <div align="left">
   <a href="https://github.com/ruanpinheiro">
